@@ -1,4 +1,4 @@
-## Available Script
+## This app shows how to take a screenshot with JavaScript
 
 In the project directory, first run:
 
