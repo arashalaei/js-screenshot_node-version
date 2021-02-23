@@ -1,0 +1,15 @@
+{
+  "name": "javaScript-screenshot_node-version",
+  "version": "1.0.0",
+  "description": "A very simple program that takes screenshots",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "keywords": [],
+  "author": "Arash Alaei",
+  "license": "ISC",
+  "dependencies": {
+    "screenshot-desktop": "^1.12.3"
+  }
+}
